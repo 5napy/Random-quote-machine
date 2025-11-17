@@ -1,6 +1,5 @@
 {
-  "homepage": "https://5napy.github.io/random-quote-machine",
-  "name": "react-quote-machine",
+  "homepage": "https://5napy.github.io/Random-quote-machine",  "name": "react-quote-machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
